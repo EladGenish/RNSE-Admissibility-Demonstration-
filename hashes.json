@@ -1,0 +1,13 @@
+{
+  "out/config.json": "1434ecf63a1ed85d1ca4197638cce0f6c9d01a84531c2ba9627db6c510a453c6",
+  "out/figure.png": "68275d1fba9679b95523b3e0ed2b5cb13aaf2b08d941d84f8136c9b64edb12a4",
+  "out/gap_labels.jsonl": "63db0c6d4eba6f36ae9f514c7b0bbe1060b8049e7f7da7a68d88cbb40ca11a8b",
+  "out/hofstadter_butterfly.png": "47abc99f8313317c95f3af49bec9a7708ea26a4f99ae98d1a158f9a6b42cfd83",
+  "out/hofstadter_gap_labels.png": "4f21e77d522ae9b25765914915b83f09566f4e5407982c891249ce3e54c37b86",
+  "out/qwz_phase.png": "e4af15e75ec0e167129358d1613a89ff9726cc1177410ded9633354ed63794ce",
+  "out/rnse_qhe_log.jsonl": "db0a80d7cdc5119915510894a3f093bbc4fd2099036caf5c7225dc7d6a4421fa",
+  "out/summary.json": "1a3feab39d1e3d38a73d1c1cc44e4b3e0a6532d0909f4057f6d1054cb3652f3e",
+  "out/trace_autopid.csv": "ebd7c4f5279b4bd0ecc572ed41584bb48043479de874d96043e6bddb16c19768",
+  "out/trace_pid.csv": "42bd5e914bb0092ffe344ca1ae59175292c5c80c6374887805de8e23dad754a0",
+  "out/trace_rnse.csv": "e7f6612ef4135f342f0111e369975810c9ffb2adfedc07e915ef7e8770c22fa5"
+}

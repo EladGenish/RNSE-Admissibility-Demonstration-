@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "T": 600,
+  "dt": 0.02,
+  "shift_t": 300,
+  "noise_std": 0.05,
+  "lie_prob": 0.02,
+  "lie_mag": 4.0,
+  "k_pre": 1.0,
+  "c_pre": 0.4,
+  "k_post": 3.0,
+  "c_post": 0.1,
+  "kp": 2.0,
+  "ki": 0.0,
+  "kd": 0.5,
+  "auto_kp_rate": 0.01,
+  "auto_kd_rate": 0.005,
+  "kp_bounds": [
+    0.1,
+    6.0
+  ],
+  "kd_bounds": [
+    0.01,
+    3.0
+  ],
+  "rnse_tau": 0.25,
+  "rnse_q": 4,
+  "rnse_alpha": 0.85,
+  "rnse_T": 64,
+  "rnse_scale_min": 0.15,
+  "rnse_scale_max": 1.0,
+  "rnse_vartail_target": 0.02,
+  "rnse_vartail_weight": 8.0,
+  "rnse_beta_weight": 1.0,
+  "rnse_event_threshold": 0.97
+}
